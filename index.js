@@ -4,7 +4,7 @@ import Header from './src/components/header';
 //Create a Component 
 const App = () => {
     return (
-        <Header/>
+        <Header headerText={'Albams'}/>
     );
 };
 
